@@ -8,7 +8,8 @@ Computational Mathematics student bridging **Data Science** and **Operations Res
 * **Applied Mathematics:** Computational linear algebra and numerical methods.
 * **Fundamentals:** Data structures, algorithms, and SQL database queries.
 
-### Tech Stack
-* **Languages:** Python (Pandas, NumPy, Matplotlib), SQL, C, R
-* **Optimization:** Gurobi Optimizer, Mathematical Modeling
-* **Tools:** Power BI, LaTeX, Git
+###  Tech Stack
+
+**Data & Analytics:** ![Pandas](https://img.shields.io/badge/Pandas-151515?style=flat&logo=pandas&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-151515?style=flat&logo=postgresql&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-151515?style=flat&logo=powerbi&logoColor=white) ![R](https://img.shields.io/badge/R-151515?style=flat&logo=r&logoColor=white)
+**Operations Research:** ![Gurobi](https://img.shields.io/badge/Gurobi-151515?style=flat) ![NumPy](https://img.shields.io/badge/NumPy-151515?style=flat&logo=numpy&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-151515?style=flat&logo=latex&logoColor=white)
+**Programming Languages:** ![Python](https://img.shields.io/badge/Python-151515?style=flat&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-151515?style=flat&logo=c&logoColor=white)
