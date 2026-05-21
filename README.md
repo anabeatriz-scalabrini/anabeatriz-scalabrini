@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there! I'm Anabe👋
 
-<!--
-**anabeatriz-scalabrini/anabeatriz-scalabrini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computational Mathematics and Math Education student bridging **Data Science** and **Operations Research**. I am passionate about using mathematical modeling and data-driven approaches to solve complex optimization problems.
 
-Here are some ideas to get you started:
+### 🔭 What you will find here:
+* **Operations Research:** Mathematical modeling, linear programming, and metaheuristics (ILS, AILS) for spatial optimization using Python and Gurobi.
+* **Data & Statistics:** Regression analysis and machine learning algorithms.
+* **Applied Mathematics:** Computational linear algebra and numerical methods.
+* **Fundamentals:** Data structures, algorithms, and SQL database queries.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+* **Languages:** Python (Pandas, NumPy, Matplotlib), SQL, C, R
+* **Optimization:** Gurobi Optimizer, Mathematical Modeling
+* **Tools:** Power BI, LaTeX, Git
+
+📫 **Let's connect:** linkedin.com/in/ana-beatriz-scalabrini
